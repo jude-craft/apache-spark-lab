@@ -12,3 +12,4 @@ wheels/
 *csv
 .ipynb_checkpoints
 zones
+*.parquet
